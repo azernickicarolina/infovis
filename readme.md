@@ -2,6 +2,12 @@
 
 #TP Final
 
+# Calidad de Sueño
 
-div class="flourish-embed flourish-chart" data-src="visualisation/4444695"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-div class="flourish-embed flourish-chart" data-src="visualisation/4405085"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+https://app.flourish.studio/visualisation/4444695/edit?
+
+
+# Relación Horas de Sueño con Pasos
+
+https://public.flourish.studio/visualisation/4405085/
+
